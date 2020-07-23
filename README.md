@@ -1,10 +1,14 @@
-# osixia/openldap
+# Description
+The whole project based on `osixia/openldap` repository.
+This is a Docker LDAP image, which is compatible with Kerberos servers by default.
+
+## osixia/openldap
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/osixia/openldap.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/osixia/openldap.svg)
 ![](https://images.microbadger.com/badges/image/osixia/openldap.svg)
 
-Latest release: 1.4.0 - OpenLDAP 2.4.50 -  [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/openldap/) 
+Latest release: 1.5.0 - OpenLDAP 2.4.50 -  [Changelog](CHANGELOG.md) | [Docker Hub](https://hub.docker.com/r/osixia/openldap/) 
 
 **A docker image to run OpenLDAP.**
 
