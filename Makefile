@@ -24,7 +24,7 @@ push:
 push-latest:
 	docker push $(NAME):latest
 
-release: build test tag-latest push push-latest
+release: build tag-latest push push-latest
 
 git-tag-version: release
 	git tag -a v$(VERSION) -m "v$(VERSION)"
